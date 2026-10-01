@@ -8,10 +8,10 @@ CNAME                     the custom domain GitHub Pages serves this repository 
 v1/index.json             the index of published bricks
 v1/keys                   the registry's public key, which hosts built for MASS4 trust for org.mass4 and user bricks
 v1/bricks/<id>/<version>/ the .brick files
-mass4_ed25519.pub         the same public key as a plain OpenSSH line
+mass4-brick-registry-ed25519.pub         the same public key as a plain OpenSSH line
 ```
 
-Key fingerprint: `SHA256:EuuDyUXw5sI8RR/wvFpRhCAsu+n0m5G4jiL9CY0PVUA`
+Key fingerprint: `SHA256:LhZqbxnJxs8Z+wQ9/3Cx8SaK2T00wsy1O2LDowh8FPw`
 
 ## Publishing a brick
 

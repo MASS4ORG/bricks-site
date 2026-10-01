@@ -1,0 +1,4 @@
+# The registry signing key is private: never commit it.
+mass4-brick-registry-ed25519
+*_ed25519
+*.pem
