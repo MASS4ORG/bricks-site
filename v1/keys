@@ -1,0 +1,9 @@
+{
+  "keys": [
+    {
+      "id": "SHA256:EuuDyUXw5sI8RR/wvFpRhCAsu+n0m5G4jiL9CY0PVUA",
+      "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC5yk49hAQe0NmpuXPwbWVE1J7LUf+v2w6beGcvpUNpK brmassa@MassaPCLinux",
+      "scopes": []
+    }
+  ]
+}
